@@ -1,0 +1,6 @@
+com/google/corp/productivity/specialprojects/android/fft/BuildConfig.java
+ com.google.corp.productivity.specialprojects.android.fft.BuildConfig
+com/google/corp/productivity/specialprojects/android/fft/RealDoubleFFT.java
+ com.google.corp.productivity.specialprojects.android.fft.RealDoubleFFT
+com/google/corp/productivity/specialprojects/android/fft/RealDoubleFFT_Mixed.java
+ com.google.corp.productivity.specialprojects.android.fft.RealDoubleFFT_Mixed
